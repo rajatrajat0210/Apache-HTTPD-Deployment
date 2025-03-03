@@ -61,9 +61,9 @@ sudo systemctl restart httpd
 Open a browser and visit: http://<your_vm_ip>
 
 Find your VM IP using:
-
+```bash
 ip addr show | grep inet
-
+```
 🛠 Troubleshooting
 
 Check Apache status:
