@@ -1,4 +1,6 @@
 # Apache HTTPD Local Website Deployment
+[!image alt](https://github.com/rajatrajat0210/Apache-HTTPD-Deployment/blob/main/deployedwebsite.png?raw=true)
+[!image alt](https://github.com/rajatrajat0210/Apache-HTTPD-Deployment/blob/main/apache-vms.png?raw=true)
 
 📌 Project Overview
 
