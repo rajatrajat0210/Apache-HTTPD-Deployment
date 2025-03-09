@@ -88,7 +88,9 @@ sudo tail -f /var/log/httpd/error_log
 
 🌍 Set up a custom domain with local DNS configuration.
 
-🤖 Automate deployment using Ansible or a shell script.
+🤖 Automate deployment using Ansible or a shell script. 
+You can use VagrantFileIAC for automated proviosing of the website. 
+Then just vist the http to make sure its working
 
 📅 Project Details
 
